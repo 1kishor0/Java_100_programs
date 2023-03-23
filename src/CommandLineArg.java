@@ -1,0 +1,2 @@
+public class CommandLineArg {
+}
