@@ -5,9 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5a051bdb-b7bc-4c96-8546-c4c2e1554bd6" name="Changes" comment="1st">
-      <change afterPath="$PROJECT_DIR$/src/InputUsingScanner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AddLargeNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CompareStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Convert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Factorial1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Swap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Swap2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/factorial2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CommandLineArg.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CommandLineArg.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +62,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679542536869</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="1st">
+      <created>1679542982436</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1679542982436</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
